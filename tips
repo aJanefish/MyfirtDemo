@@ -19,12 +19,5 @@ find . -name "*com_mas_wawagame_kuwajjlord_dz01.png"| xargs rename -v    "s/yyy/
 
 ====================================================================================================
 字符串替换：
-find ./*  -exec  sed -i 's/apple/iphone/g' {} \;====================================================================================================
-修改后缀
-find . -iname com_mas_wawagame_kuwajjlord_dz01.png  | xargs -i mv {} {}.txt
-批量修改文件名
-find . -name "*com_mas_wawagame_kuwajjlord_dz01.png"| xargs rename -v    "s/yyy/xxx/" {}
-
-====================================================================================================
-字符串替换：
 find ./*  -exec  sed -i 's/apple/iphone/g' {} \;
+
