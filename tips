@@ -1,0 +1,30 @@
+该文件是只用于个人学习，谢谢！
+该文件是只用于个人学习，谢谢！
+该文件是只用于个人学习，谢谢！
+
+==================================================================================================================================
+1.Ubuntu java 环境配置：
+思路：对java版本创建公共的默认链接，需要使用那个版本时把该版本链接到默认链接上
+创建默认java链接如：
+sudo ln -s /usr/local/jvm/jdk1.6.0_26/ /usr/local/jvm/default-java 
+sudo ln -s /usr/local/jvm/java-se-8u40-ri/ /usr/local/jvm/default-java
+查看链接所有java相关的链接：
+ll /usr/bin/ja*
+
+====================================================================================================
+修改后缀
+find . -iname com_mas_wawagame_kuwajjlord_dz01.png  | xargs -i mv {} {}.txt
+批量修改文件名
+find . -name "*com_mas_wawagame_kuwajjlord_dz01.png"| xargs rename -v    "s/yyy/xxx/" {}
+
+====================================================================================================
+字符串替换：
+find ./*  -exec  sed -i 's/apple/iphone/g' {} \;====================================================================================================
+修改后缀
+find . -iname com_mas_wawagame_kuwajjlord_dz01.png  | xargs -i mv {} {}.txt
+批量修改文件名
+find . -name "*com_mas_wawagame_kuwajjlord_dz01.png"| xargs rename -v    "s/yyy/xxx/" {}
+
+====================================================================================================
+字符串替换：
+find ./*  -exec  sed -i 's/apple/iphone/g' {} \;
