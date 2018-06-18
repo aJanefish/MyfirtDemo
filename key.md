@@ -1,0 +1,9 @@
+#windows-p
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDyujF/hEajPCPdXMPy5C97l7eCiuqXQ0w8TvBQ67BvR5y8m8YMMl+c/DaxnHyk+FAo3BCzrqyu5rXZzorAttrXHzBn5FcYjDfDx2zIUyLeJ5CBLE529ipsp1JzCsrWTym4M+ovDojTM67I0QyX9N7w84CF19yQf6Vg85VpBlWSlfFEn+cVXdiGrHMDkenfWZBCch4jnf7r6atmkrPXp6acFN/l9nxa50Gai1U7uAnj6DBixc2W3a7GU3KO5crtUj8De6EKy/D1Mn2IS3K98wg1PPBhuEV/QOXtqHmWWNTdrdPdFl1fLOXqxd1DiHafxu3jlFY+a0ZtTXwaLbluO5Xx Administrator@USER-20171119IC
+
+#ubuntu_p
+
+
+#windows-works
+
+#windows-works
