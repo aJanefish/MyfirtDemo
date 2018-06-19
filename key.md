@@ -6,4 +6,12 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDyujF/hEajPCPdXMPy5C97l7eCiuqXQ0w8TvBQ67Bv
 
 #windows-works
 
-#windows-works
+#ubuntu-works
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/KyRdF4KPYMUE+YEYc3UUODO65Fb1P69raMqtcZiSXExPXYIIfRQ2aNrxTiZY1hxO3AqVn7bilp0XrySHKsgtEc7PzGu4w81DmTvmZLKRCHeLl1CvrgXCfi9c5R/i1qWLGq2H/S5WvHuxPb2nAOkRaUZ1sjxv+DVnc0hCV98gLdmIpKMhxSUilUmmn87vMbBtcoEwRUGlqdDX6Qeevz7gV3i5tn4EVKXg6yfnEthmE+VKM/DXvksjc+9RMaUOXxkTy6drVMPcDAGz6s3Fd/Dzs/1ShWDLKBu8kzQkEmaCW6W5p5rjomQhadf1lge1oWO7H6CjiVWWRVIHjwI+RlN singou@singou-PC
+
+
+
+
+#git address
+git@repo.singou.mo:robot/aicare-android.git
