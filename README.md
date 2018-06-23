@@ -18,7 +18,6 @@ https://github.com/ssseasonnn/Yaksa
 
 #zenme jiejue chongtu
 
-#冲突i
-
-#修改冲突
+##
+android stuidio 白皮书:https://developer.android.google.cn/studio/intro/keyboard-shortcuts
 
