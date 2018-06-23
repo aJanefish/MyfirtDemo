@@ -15,3 +15,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDC/KyRdF4KPYMUE+YEYc3UUODO65Fb1P69raMqtcZi
 
 #git address
 git@repo.singou.mo:robot/aicare-android.git
+git@repo.singou.mo:robot/aiui-product-demo.git
